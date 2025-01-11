@@ -1,6 +1,6 @@
 const profileData = {
   title: "Resume",
-  name: "Vipin Yadav",
+  name: "shaik ayesha",
   sub_title: "Senior Software Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
